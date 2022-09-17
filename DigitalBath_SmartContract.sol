@@ -1,5 +1,8 @@
 /**
- *Submitted for verification at Etherscan.io on 2017-11-28
+ *Submitted for verification at Etherscan.io on
+ * Improve USDT to Digital Bath
+ * Improve by : Anan P.
+ * Email : hs1gab@gmail.com
 */
 // SPDX-License-Identifier: MIT
 
